@@ -10,3 +10,4 @@ venv/
 .env
 *.dcm
 *.dicom
+.claude/

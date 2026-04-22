@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+*.log
+*.tmp
+*.pdf
+/tmp/
+venv/
+.env
+*.dcm
+*.dicom
